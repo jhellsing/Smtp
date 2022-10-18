@@ -1,0 +1,16 @@
+D:\дз 3 курс\Mail\Mail\bin\Debug\Mail.exe.config
+D:\дз 3 курс\Mail\Mail\bin\Debug\Mail.exe
+D:\дз 3 курс\Mail\Mail\bin\Debug\Mail.pdb
+D:\дз 3 курс\Mail\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
+D:\дз 3 курс\Mail\Mail\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
+D:\дз 3 курс\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+D:\дз 3 курс\Mail\Mail\obj\Debug\Mail.exe
+D:\дз 3 курс\Mail\Mail\obj\Debug\Mail.pdb
+C:\Users\юля\Downloads\Mail-main\Mail\bin\Debug\Mail.exe.config
+C:\Users\юля\Downloads\Mail-main\Mail\bin\Debug\Mail.exe
+C:\Users\юля\Downloads\Mail-main\Mail\bin\Debug\Mail.pdb
+C:\Users\юля\Downloads\Mail-main\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
+C:\Users\юля\Downloads\Mail-main\Mail\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
+C:\Users\юля\Downloads\Mail-main\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\юля\Downloads\Mail-main\Mail\obj\Debug\Mail.exe
+C:\Users\юля\Downloads\Mail-main\Mail\obj\Debug\Mail.pdb
